@@ -1,4 +1,4 @@
-![Header]([https://github.com/shivam20242/shivam20242/blob/main/banner.png](https://drive.google.com/file/d/1McbDNxLSE-bem5OxJttUZmzNj2jHlXuL/view?usp=sharing))
+![Header](https://github.com/shivam20242/shivam20242/blob/main/banner.png)
 
 <h1 align="center">Hi 👋, I'm Shivam Mishra</h1>
 <h3 align="center">Full Stack Developer | Building APIs, Microservices, Automation Tools & Web Scraping Solutions</h3>
